@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Book One",
+      "title": "Introduction to Programming",
+      "price": 29.99,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
+    },
+    {
+      "id": 2,
+      "name": "Book Two",
+      "title": "Data Structures and Algorithms",
+      "price": 39.99,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366"
+    },
+    {
+      "id": 3,
+      "name": "Book Three",
+      "title": "Database Design and Implementation",
+      "price": 49.99,
+      "category": "Database",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
+    },
+    {
+      "id": 4,
+      "name": "Book Four",
+      "title": "Web Development with JavaScript",
+      "price": 34.99,
+      "category": "Web Development",
+      "image": "https://images.unsplash.com/photo-1546069903-4b7d804e2006"
+    },
+    {
+      "id": 5,
+      "name": "Book Five",
+      "title": "Python Programming",
+      "price": 27.99,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1500740519829-b491a6f1e9ce"
+    },
+    {
+      "id": 6,
+      "name": "Book Six",
+      "title": "Machine Learning Essentials",
+      "price": 59.99,
+      "category": "Machine Learning",
+      "image": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366"
+    },
+    {
+      "id": 7,
+      "name": "Book Seven",
+      "title": "Advanced Database Systems",
+      "price": 54.99,
+      "category": "Database",
+      "image": "https://images.unsplash.com/photo-1503341504254-7f786edc1e96"
+    },
+    {
+      "id": 8,
+      "name": "Book Eight",
+      "title": "CSS Mastery",
+      "price": 32.99,
+      "category": "Web Development",
+      "image": "https://images.unsplash.com/photo-1493612276216-ee3925520721"
+    },
+    {
+      "id": 9,
+      "name": "Book Nine",
+      "title": "React.js Essentials",
+      "price": 37.99,
+      "category": "Web Development",
+      "image": "https://images.unsplash.com/photo-1532009324734-20a7a5813719"
+    },
+    {
+      "id": 10,
+      "name": "Book Ten",
+      "title": "Node.js in Action",
+      "price": 42.99,
+      "category": "Web Development",
+      "image": "https://images.unsplash.com/photo-1525859495424-8629872e5f3f"
+    },
+    {
+      "id": 11,
+      "name": "Book Eleven",
+      "title": "Introduction to HTML and CSS",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://images.unsplash.com/photo-1532009324734-20a7a5813719"
+    },
+    {
+      "id": 12,
+      "name": "Book Twelve",
+      "title": "Java Programming",
+      "price": 49.99,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1512275095537-3c7fc0a1d855"
+    },
+    {
+      "id": 13,
+      "name": "Book Thirteen",
+      "title": "The Art of SQL",
+      "price": 39.99,
+      "category": "Database",
+      "image": "https://images.unsplash.com/photo-1593720213422-15a3bda20f09"
+    },
+    {
+      "id": 14,
+      "name": "Book Fourteen",
+      "title": "JavaScript Frameworks",
+      "price": 29.99,
+      "category": "Web Development",
+      "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb630d"
+    },
+    {
+      "id": 15,
+      "name": "Book Fifteen",
+      "title": "Machine Learning for Beginners",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://images.unsplash.com/photo-1532009324734-20a7a5813719"
+    },
+    {
+      "id": 16,
+      "name": "Book Sixteen",
+      "title": "PHP Development",
+      "price": 34.99,
+      "category": "Web Development",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
+    },
+    {
+      "id": 17,
+      "name": "Book Seventeen",
+      "title": "Data Science Essentials",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366"
+    },
+    {
+      "id": 18,
+      "name": "Book Eighteen",
+      "title": "SQL Fundamentals",
+      "price": 29.99,
+      "category": "Database",
+      "image": "https://images.unsplash.com/photo-1515377905701-10c8bcf1e0c5"
+    },
+    {
+      "id": 19,
+      "name": "Book Nineteen",
+      "title": "Ruby on Rails",
+      "price": 39.99,
+      "category": "Web Development",
+      "image": "https://images.unsplash.com/photo-1546069903-4b7d804e2006"
+    },
+    {
+      "id": 20,
+      "name": "Book Twenty",
+      "title": "Artificial Intelligence",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://images.unsplash.com/photo-1542281286-9e0a16bb7366"
+    }
+  ]
+  
