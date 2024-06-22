@@ -1,3 +1,6 @@
+
+Tech Used for the Project are - Node.js, Express.js, MongoDB, React.js
+
 Step 1:- copy the github repo url
 
 Step 2:- open cmd terminal 
