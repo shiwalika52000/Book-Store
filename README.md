@@ -24,3 +24,26 @@ Step9:- move to frontend
 Step10:- move backend
           npm install 
           npm start
+          
+Please find attached a google drive link for video recording demonstrating the functionality of project :-
+
+
+https://drive.google.com/file/d/1xDrrChWoL5oY_uchS7yVWt-WMMB1urtX/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
